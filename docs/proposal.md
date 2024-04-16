@@ -1,4 +1,4 @@
-Sure, let's break down the plan into segments:
+# proposal for the bootcam
 
 **Introduction (5 minutes)**
 - Briefly introduce yourself, your teams  and yours background in AI.
