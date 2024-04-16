@@ -66,6 +66,7 @@
 - Ask students to brainstorm possible solutions using the concepts they've learned so far.
 - Encourage collaboration and creative thinking.
 
+![](https://raw.githubusercontent.com/Semillero-Inteligencia-Artificial-EAFIT/Face_recognition_workshop/main/docs/images/Screenshot%202024-04-16%20at%2012-36-58%20M4ML%20C1%20W3%20-%20s_FRnYGBQX-Q9kh64lBmqg_1609b691abc94d35b87c9b830a5251f1_M4ML-C1-W3.pdf.png)
 
 **Anatomy and Pipeline of Building AI (10 minutes):**
 
@@ -127,6 +128,8 @@
 25 minutes first activty 
 
 25 minutes second activty 
+
+20 minutes third part 
 
 ### TO DO
 
