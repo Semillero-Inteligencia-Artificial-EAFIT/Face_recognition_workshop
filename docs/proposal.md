@@ -1,5 +1,6 @@
 # proposal for the bootcam
 
+### block 1 -pepe
 **Introduction (5 minutes)**
 - Briefly introduce yourself, your teams  and yours background in AI.
 - Explain the purpose of the bootcamp and what the students can expect to learn.
@@ -33,6 +34,7 @@
 - Encourage creativity and critical thinking.
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fn4L-RXVZ87F_hIfg_L81g.png)
 
+### block 2 -fulano
 
 **Machine Learning Applications (5 minutes)**
 
@@ -68,6 +70,8 @@
 
 ![](https://raw.githubusercontent.com/Semillero-Inteligencia-Artificial-EAFIT/Face_recognition_workshop/main/docs/images/Screenshot%202024-04-16%20at%2012-36-58%20M4ML%20C1%20W3%20-%20s_FRnYGBQX-Q9kh64lBmqg_1609b691abc94d35b87c9b830a5251f1_M4ML-C1-W3.pdf.png)
 
+### block 3 -sultanito
+
 **Anatomy and Pipeline of Building AI (10 minutes):**
 
 - Introduction to AI Pipeline: Explain the step-by-step process of building an AI system, starting from problem formulation to deployment.
@@ -95,17 +99,10 @@
 - Discuss common applications of computer vision technology.
 - Show examples of computer vision in action, such as facial recognition and object detection.
 
-
 **Quiz (20 minutes)**
 - Administer a short quiz to assess students' understanding of the material covered.
 - Include multiple-choice and open-ended questions.
 - Offer prizes for the top performers to incentivize participation.
-
-**Q&A and Conclusion (15 minutes)**
-- Open the floor for any remaining questions from the students.
-- Summarize the key takeaways from the bootcamp.
-- Provide resources for students to continue their AI learning journey.
-- Thank the students for their participation and encourage them to explore AI further.
 
 **Scratch Tutorial (30 minutes)**
 - Provide a hands-on tutorial on building a simple face recognition system using Scratch.
@@ -117,6 +114,18 @@
 - Walk through the process of building a face recognition system using Python and OpenCV.
 - Demonstrate how to write code to detect and recognize faces in an image or video stream.
 - Provide resources for further learning and exploration.
+
+**Refrences**
+- talk about important points of this speak
+- present more material like dotcsv, courses of medellin and eafit, our pensum of courses goole course, fastAI,machine y deeplearning specialisation
+
+
+**Q&A and Conclusion (15 minutes)**
+- Open the floor for any remaining questions from the students.
+- Summarize the key takeaways from the bootcamp.
+- Provide resources for students to continue their AI learning journey.
+- Thank the students and the organizators for their participation and encourage them to explore AI further .
+
 
 
 ### Total time
