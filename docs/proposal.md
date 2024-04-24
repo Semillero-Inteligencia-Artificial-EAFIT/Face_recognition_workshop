@@ -49,19 +49,34 @@
 
 - Machine Translation: Discuss the advancements in machine translation models such as Google Translate and how they utilize deep learning techniques. (include seamlessmeta)
 
+** Mathematics in AI (1 minutes)**
 
-**Neural Networks (5 minutes)**
-- Introduce neural networks as the building blocks of deep learning.
-- Explain the structure of a neural network, including layers, neurons, and activation functions.
-- Show examples of neural network architectures, such as feedforward and convolutional neural networks.
+Briefly explain the importance of mathematics in AI, particularly statistics, linear algebra, and calculus.
+Mention how these mathematical concepts are utilized in algorithms for tasks such as optimization, pattern recognition, and data analysis.
+Provide a simple example, such as linear regression, and explain how it involves mathematical concepts like slope, intercept, and minimizing the sum of squared errors.
 
-**Fundamental Mathematics (5 minutes):**
+**Tools for Data Science and Machine Learning (3 minutes)**
 
-- Linear Algebra: Briefly introduce the role of linear algebra in AI, particularly in representing data as vectors and matrices, and operations such as matrix multiplication used in neural network computations.
+Introduce essential tools used in data science and machine learning, such as programming languages (Python, R), libraries (NumPy, Pandas, Scikit-learn), and frameworks (TensorFlow, PyTorch).
+Mention the importance of tools for data manipulation, visualization, and model development.
+Emphasize the versatility and popularity of Python in the field due to its extensive libraries and ease of use.
 
-- Statistics: Discuss the importance of statistics in AI for tasks such as probability estimation, hypothesis testing, and model evaluation.
+** Roles in AI (3 minutes)**
 
-- Calculus
+Discuss various roles within the AI ecosystem, including:
+Data Scientist: Responsible for extracting insights from data, building predictive models, and developing algorithms.
+Machine Learning Engineer: Focuses on designing, implementing, and deploying machine learning systems.
+MLOps Engineer: Manages the lifecycle of machine learning models, including deployment, monitoring, and maintenance.
+Explain how these roles often overlap and collaborate in AI projects, with each bringing specialized skills to the table.
+
+**Key Algorithms and Frameworks (3 minute)**
+
+Briefly mention some common algorithms used in machine learning, such as:
+Random Forest: Ensemble learning method used for classification and regression tasks.
+Decision Tree: Tree-like model used for classification and regression by partitioning the input space into regions.
+Introduce popular frameworks and libraries such as TensorFlow for deep learning and Hugging Face for natural language processing tasks like sentiment analysis or text generation.
+
+
 
 **Activity 2: Brainstorming Session (5 minutes)**
 - Present a challenge or problem related to AI.
@@ -93,21 +108,13 @@
 
 - ...
 
-**Computer Vision for the workshop (5 minutes)**
 
-- Explain what computer vision is and its role in AI.
-- Discuss common applications of computer vision technology.
-- Show examples of computer vision in action, such as facial recognition and object detection.
 
 **Quiz (20 minutes)**
 - Administer a short quiz to assess students' understanding of the material covered.
 - Include multiple-choice and open-ended questions.
 - Offer prizes for the top performers to incentivize participation.
 
-**Scratch Tutorial (30 minutes)**
-- Provide a hands-on tutorial on building a simple face recognition system using Scratch.
-- Break down the process step by step, explaining each block of code.
-- Encourage students to experiment and customize the project.
 
 **Python Tutorial (30 minutes)**
 - Introduce Python programming language and its popularity in AI development.
@@ -120,7 +127,7 @@
 - present more material like dotcsv, courses of medellin and eafit, our pensum of courses goole course, fastAI,machine y deeplearning specialisation
 
 
-**Q&A and Conclusion (15 minutes)**
+**Q&A and Conclusion (20 minutes)**
 - Open the floor for any remaining questions from the students.
 - Summarize the key takeaways from the bootcamp.
 - Provide resources for students to continue their AI learning journey.
